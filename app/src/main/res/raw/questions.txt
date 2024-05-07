@@ -1,0 +1,20 @@
+What is the ideal temperature for baking cookies?|350°F|375°F|400°F|0
+Which ingredient is commonly used to thicken sauces and soups?|Cornstarch|Flour|Arrowroot|1
+What type of pasta is shaped like small rice grains?|Orzo|Fusilli|Penne|0
+Which cooking method involves cooking food in a vacuum-sealed bag at a precise temperature?|Sous vide|Grilling|Deep frying|0
+What is the primary ingredient in guacamole?|Avocado|Tomato|Onion|0
+Which type of flour is commonly used to make bread?|All-purpose flour|Cake flour|Bread flour|2
+What is the main ingredient in risotto?|Arborio rice|Basmati rice|Jasmine rice|0
+What is the traditional Japanese seasoning made from fermented soybeans?|Miso|Soy sauce|Mirin|0
+What is the process of soaking meat in a seasoned liquid before cooking called?|Marinating|Brining|Braising|1
+Which type of knife is used for slicing vegetables with a rocking motion?|Chef's knife|Serrated knife|Paring knife|0
+What is the primary ingredient in hummus?|Chickpeas|Lentils|Black beans|0
+What is the term for cooking food slowly in liquid over low heat?|Simmering|Boiling|Sauteing|0
+Which type of oil is commonly used for frying due to its high smoke point?|Canola oil|Olive oil|Coconut oil|0
+What is the main ingredient in paella?|Rice|Pasta|Quinoa|0
+Which herb is commonly used in Italian cuisine and pairs well with tomatoes?|Basil|Thyme|Rosemary|0
+What is the term for cutting vegetables into small, even cubes?|Dicing|Slicing|Chopping|0
+What is the traditional French dessert made from whipped egg whites and sugar?|Meringue|Macaron|Eclair|0
+Which type of cheese is commonly used in lasagna?|Mozzarella|Ricotta|Cheddar|1
+What is the primary ingredient in sushi rice?|Rice vinegar|Short-grain rice|Soy sauce|1
+Which cooking technique involves cooking food directly over high heat?|Grilling|Steaming|Poaching|0

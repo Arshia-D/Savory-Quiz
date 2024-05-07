@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/questionText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:textStyle="bold"
+        android:text="Question\nquestion"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:textColor="@color/pink"
+        android:layout_marginBottom="16dp"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/option1Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Option 1"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/option2Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Option 2"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/option3Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Option 3"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        tools:ignore="HardcodedText" />
+
+
+    <Button
+        android:id="@+id/readyButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:backgroundTint="@color/pink"
+        android:contentDescription="Press to start the quiz"
+        android:enabled="true"
+        android:padding="10dp"
+        android:text="Ready to Handle Five Questions?"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        tools:ignore="HardcodedText,TextContrastCheck" />
+
+    <Button
+        android:id="@+id/restartButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Restart Quiz"
+        android:backgroundTint="@color/pink"
+        android:layout_marginTop="35dp"
+        android:textSize="16sp"
+        android:padding="10dp"
+        android:textColor="@color/white"
+        android:enabled="false"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>

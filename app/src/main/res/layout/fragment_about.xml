@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/setting">
+
+
+    <TextView
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Created by Arshia Darvish "
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:layout_marginBottom="16dp"
+        tools:ignore="HardcodedText" />
+
+    <SeekBar
+        android:id="@+id/seekBarVolume"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:progress="50"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"/>
+
+    <androidx.appcompat.widget.SwitchCompat
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:id="@+id/switchMusic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Music On/Off"
+        android:textColor="@color/black"
+        android:checked="true"
+        tools:ignore="HardcodedText" />
+
+    <ImageButton
+        android:id="@+id/btnRemoveAds"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:background="@null"
+        android:contentDescription="Remove Ads"
+        android:scaleType="fitCenter"
+        android:src="@drawable/remove_ads"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Remove Ads"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:textSize="20sp"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>
